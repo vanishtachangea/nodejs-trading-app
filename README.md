@@ -35,7 +35,7 @@ Another user can click on Sell (If User is selling , the Buy button is enabled)
 
 
 ### Live Version of Application
-
+https://vc-nodejs-trading-app.herokuapp.com/
 
 ### Next Steps
 1. Work on Algorithm for the total of Gold left is Gold is sold. Calculate the Balance on each party 
